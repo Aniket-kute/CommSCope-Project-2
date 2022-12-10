@@ -8,6 +8,6 @@ So I came acrross this workflow for this problem
 
 **Current workflow**
 
-<img src="commscope_work_portfolio/workflow_2.png">
+<img src="workflow_2.png">
 
 <br>
