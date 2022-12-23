@@ -16,6 +16,6 @@ So I came acrross this workflow for this problem
 
 _**Power Bi Dashboard:**_
 
-<img src="images/one_cell_new.png" WIDTH="500" HEIGHT="500">
+<img src="images/one_cell.png" WIDTH="500" HEIGHT="500">
 
 
