@@ -8,6 +8,6 @@ So I came acrross this workflow for this problem
 
 **Current workflow**
 
-<img src="images/workflow_2.png" WIDTH="500" HEIGHT="100">
+<img src="images/workflow_2.png" WIDTH="500" HEIGHT="200">
 
 <br>
