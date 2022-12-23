@@ -1,4 +1,4 @@
-# Root Cause analysis using data blending technique in Power BI
+# Root Cause analysis using data blending techniques in Power BI
 
 ### Automate dashboard to visualize 3 different product lines to get insights in PowerBi
 
