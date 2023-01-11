@@ -13,6 +13,14 @@ So I came acrross this workflow for this problem
 <br>
 
 -----
+_**Improvement in First Pass Yields:**_
+
+<img src="improvement 2.png" WIDTH="500" HEIGHT="500">
+
+
+
+
+-----
 
 _**Power Bi Dashboard:**_
 
