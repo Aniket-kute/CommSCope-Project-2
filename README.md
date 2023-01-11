@@ -8,14 +8,14 @@ So I came acrross this workflow for this problem
 
 **Current workflow**
 
-<img src="images/workflow_2.png" WIDTH="500" HEIGHT="60">
+<img src="images/workflow_2.png" WIDTH="500" HEIGHT="30">
 
 <br>
 
 -----
 _**Improvement in First Pass Yields:**_
 
-<img src="images/improvement 2.png" WIDTH="500" HEIGHT="500">
+<img src="images/improvement 2.png" WIDTH="500" HEIGHT="200">
 
 
 
