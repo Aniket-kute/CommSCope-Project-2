@@ -12,12 +12,6 @@ So I came acrross this workflow for this problem
 
 <br>
 
------
-_**Improvement in First Pass Yields:**_
-
-<img src="images/improvement 2.png" WIDTH="700" HEIGHT="200">
-
-
 
 
 -----
