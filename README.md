@@ -15,7 +15,7 @@ So I came acrross this workflow for this problem
 -----
 _**Improvement in First Pass Yields:**_
 
-<img src="improvement 2.png" WIDTH="500" HEIGHT="500">
+<img src="images/improvement 2.png" WIDTH="500" HEIGHT="500">
 
 
 
